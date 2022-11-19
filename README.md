@@ -36,6 +36,8 @@ me = Lucas()
 <a href="https://github.com/lucasgurgeln/lucasgurgeln">
     <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lucasgurgeln&show_icons=true&theme=gotham" alt="Lucas's GitHub Stats">
 </a>
+<p>
 <a href="https://www.linkedin.com/in/lucasgurgeln/" title="linkedin"><img src="https://github.com/get-icon/geticon/raw/master/icons/linkedin.svg" alt="Linkedin" width="100px" height="40px"></a>
 <br/>
+    </p>
 
