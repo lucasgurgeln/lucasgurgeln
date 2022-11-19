@@ -1,5 +1,5 @@
 
-## Welcome to my Github Profile! <img align='right' src="https://giphy.com/embed/qgQUggAC3Pfv687qPC" width="600">
+## Welcome to my Github Profile! 
 ### About me!
 ```python
 class Lucas:
