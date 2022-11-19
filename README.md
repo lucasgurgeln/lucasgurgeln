@@ -1,6 +1,6 @@
 ![image](https://user-images.githubusercontent.com/56738141/186486128-a67ee896-647f-4a1e-902d-30961b2b5c21.png)
 
-## Welcome to my Github Profile! <img src=["https://giphy.com/embed/qgQUggAC3Pfv687qPC"](https://media4.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47qx1nt72ouji1iu85bq8f9do93w5tyxugp9zj42ga&rid=giphy.gif&ct=g) width="400" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+## Welcome to my Github Profile! <img align='right' src="[https://media.giphy.com/media/JKo6P5QyuFkuhLlfVq/giphy.gif](https://giphy.com/embed/qgQUggAC3Pfv687qPC)" width="400">
 ### About me!
 ```python
 class Lucas:
